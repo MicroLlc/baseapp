@@ -1,5 +1,5 @@
 DevSecOps Stats:</br>
-[![CodeQL](https://github.com/MicroLlc/baseapp/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/MicroLlc/baseapp/actions/workflows/codeql-analysis.yml)
+[![CodeQL](https://github.com/MicroLlc/baseapp/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/MicroLlc/baseapp/actions/workflows/codeql-analysis.yml) [![Fortify on Demand Scan](https://github.com/MicroLlc/baseapp/actions/workflows/fortify.yml/badge.svg?branch=master)](https://github.com/MicroLlc/baseapp/actions/workflows/fortify.yml)
 
 # Go-Gin web application
 
