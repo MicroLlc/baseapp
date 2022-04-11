@@ -1,3 +1,6 @@
+DevSecOps Stats:</br>
+[![CodeQL](https://github.com/MicroLlc/baseapp/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/MicroLlc/baseapp/actions/workflows/codeql-analysis.yml)
+
 # Go-Gin web application
 
 This application was generated with [sonic](https://github.com/openware/sonic)
